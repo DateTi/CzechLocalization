@@ -1,0 +1,22 @@
+{
+    "name": "dateti/localization-cs",
+    "description": "English localization",
+    "type": "library",
+    "require": {
+        "php": ">=7.2",
+        "dateti/localization": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {
+            "DateTi\\Localization\\": "src/Localization"
+        }
+    },
+    "license": "Apache-2.0",
+    "authors": [
+        {
+            "name": "Jan Galek",
+            "email": "admin@gcore.cz"
+        }
+    ],
+    "minimum-stability": "dev"
+}
