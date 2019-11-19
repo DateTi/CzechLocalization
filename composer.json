@@ -4,7 +4,8 @@
     "type": "library",
     "require": {
         "php": ">=7.2",
-        "dateti/localization": "dev-master"
+        "dateti/localization": "dev-master",
+        "nette/neon": "^3.0"
     },
     "require-dev": {
         "phpunit/phpunit": "^8.4"
