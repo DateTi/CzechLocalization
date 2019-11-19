@@ -6,6 +6,9 @@
         "php": ">=7.2",
         "dateti/localization": "dev-master"
     },
+    "require-dev": {
+        "phpunit/phpunit": "^8.4"
+    },
     "autoload": {
         "psr-4": {
             "DateTi\\Localization\\": "src/Localization"
@@ -17,6 +20,5 @@
             "name": "Jan Galek",
             "email": "admin@gcore.cz"
         }
-    ],
-    "minimum-stability": "dev"
+    ]
 }
